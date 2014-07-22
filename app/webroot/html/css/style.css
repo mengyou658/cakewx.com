@@ -155,12 +155,13 @@ hr{
 
 .header .navbar-brand  h1 {
 	display: inline-block;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight:600;
 	line-height:40px;
 	margin:0px;
 	padding:0px;
 	color: #777;
+	font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3", "Microsoft Yahei";
 }
 
 .header .navbar-brand h1 i{
