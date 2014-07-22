@@ -22,7 +22,7 @@
 						</div>
 						<!-- Image -->
 						<div class="caption sfb" data-x="center" data-y="166" data-speed="1000" data-start="3200" data-easing="easeOutBack">
-							<?php echo $this->Html->image('/html/img/preview.png', array('width' => "960", 'alt' => "在微信后台管理界面", 'class' => "img-responsive")); ?>
+							<?php echo $this->Html->image('/html/img/preview.png', array('width' => "960", 'alt' => "CakeWX后台管理界面", 'class' => "img-responsive")); ?>
 						</div>
 					</li>
 					<!-- Slider one -->
@@ -35,7 +35,7 @@
 							<a href="http://www.cakewx.com/ck/" target="_blank" class="btn btn-slider"><i class="fa fa-download"></i>免费下载</a>
 						</div>
 						<div class="caption sfr" data-x="right" data-y="110" data-speed="500" data-start="3200" data-easing="easeOutBack">
-							<?php echo $this->Html->image('/html/img/imac.png', array('width' => "380", 'alt' => "在微信后台管理界面", 'class' => "img-responsive")); ?>
+							<?php echo $this->Html->image('/html/img/imac.png', array('width' => "380", 'alt' => "CakeWX后台管理界面", 'class' => "img-responsive")); ?>
 						</div>
 					</li>
 				</ul>
@@ -240,7 +240,7 @@
 			<div class="footer clearfix">
 				<div style="float:left;margin:60px 20px 20px 0;width:350px;">
 	            	<img src="http://s01.liunian.mobi/cakewx/web/erwm.png" width="100px" height="100px" style="float:left;margin-right:10px;">
-	                <p>微信扫码左侧二维码<br>关注在微信官方微信公众号<br>关注在微信最新产品动态</p>
+	                <p>微信扫码左侧二维码<br>关注CakeWX官方微信公众号<br>关注CakeWX最新产品动态</p>
 	            </div>
 				<div class="span6 col-form" id="signup-block">
                     <form role="form" class="simple_form form form-stacked email-signup-form" id="regForm" method="post">
@@ -294,7 +294,7 @@
 		</div>
 	</section>
 	<div class="copyright">
-		<div class="share">&copy; Copyright 2014 - 在微信 - All Rights Reserved. <a class="sina-weibo" href="http://weibo.com/lnbook" target="_blank"></a><a class="qq-weibo" href="http://t.qq.com/liunianbook" target="_blank"></a><a class="douban-btn" href="http://site.douban.com/228900/" target="_blank"></a><!--<a class="qq-btn" href="http://wpa.qq.com/msgrd?v=3&uin=2096519316&site=qq&menu=yes" target="_blank"></a>--></div>
+		<div class="share">&copy; Copyright 2014 - CakeWX - All Rights Reserved. <a class="sina-weibo" href="http://weibo.com/lnbook" target="_blank"></a><a class="qq-weibo" href="http://t.qq.com/liunianbook" target="_blank"></a><a class="douban-btn" href="http://site.douban.com/228900/" target="_blank"></a><!--<a class="qq-btn" href="http://wpa.qq.com/msgrd?v=3&uin=2096519316&site=qq&menu=yes" target="_blank"></a>--></div>
 	</div>
 	<!-- Footer End -->
 	<!-- Scroll to top -->
