@@ -32,7 +32,7 @@
 							运行环境：Apache + PHP + MySQL<br>官方QQ交流群：295169425</font>
 						</div>
 						<div class="caption tp-caption sfl" data-x="left" data-y="320" data-speed="500" data-start="2600" data-easing="easeOutBack">
-							<a href="http://www.cakewx.com" target="_blank" class="btn btn-slider"><i class="fa fa-download"></i>免费下载</a>
+							<a href="http://www.cakewx.com/ck/" target="_blank" class="btn btn-slider"><i class="fa fa-download"></i>免费下载</a>
 						</div>
 						<div class="caption sfr" data-x="right" data-y="110" data-speed="500" data-start="3200" data-easing="easeOutBack">
 							<?php echo $this->Html->image('/html/img/imac.png', array('width' => "380", 'alt' => "在微信后台管理界面", 'class' => "img-responsive")); ?>
