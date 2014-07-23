@@ -1,6 +1,6 @@
-app/Config/database.php
-app/Config/settings.json
-app/tmp/
-app/webroot/attached/
+mp/app/Config/database.php
+mp/app/Config/settings.json
+mp/app/tmp/
+mp/app/webroot/attached/
 .idea/
-app/Config/croogo.php
+mp/app/Config/croogo.php
