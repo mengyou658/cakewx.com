@@ -15,9 +15,8 @@ height: 0;
 .clearfix { display: block; }
 body{
 	font-size:14px;
-	font-family: 'Microsoft Yahei', sans-serif;
+	font-family: 'Microsoft Yahei', "Open Sans", sans-serif;
 	-webkit-font-smoothing: antialiased;
-	overflow:hidden !important;
 	background: #609cec url("http://s01.liunian.mobi/cakewx/web/overlay.png") repeat;
 }
 
@@ -74,10 +73,6 @@ hr{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
-}
-
-.tp-banner .tp-caption{
-	font-family:"Open Sans", sans-serif !important;
 }
 
 .tp-banner .tp-caption.large_bold_white{
