@@ -81,15 +81,6 @@ var UPLOAD_URL = '<?= Router::url("/lib/picUpload") ?>';
 var ADMIN_URL = '<?= Router::url("/admin/", TRUE) ?>';
 var ADMIN_WC_URL = '<?= Router::url($WC_BASE) ?>';
 </script>
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?c6228d305de346509e945fdcf38501c4";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
 </head>
 	<body>	
 		<?php
@@ -117,5 +108,9 @@ var _hmt = _hmt || [];
 		<div id='ajcont' style="display:none">
 			<div id="aj_box"></div>
 		</div>
+		<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F6141b747e7efcb638aa25305c2817fe4' type='text/javascript'%3E%3C/script%3E"));
+</script>
 	</body>
 </html>
